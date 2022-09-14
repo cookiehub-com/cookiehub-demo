@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: tcf
 title: CookieHub & TCF v2.0
 permalink: /tcfv2/
 description: Transparency & Consent Framework

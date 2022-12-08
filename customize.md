@@ -1,7 +1,7 @@
 ---
 layout: css
 title: CookieHub
-permalink: /css/
+permalink: /customize/
 description: CSS
 ---
 

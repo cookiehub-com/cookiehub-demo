@@ -1,6 +1,6 @@
 ---
-layout: tcf
-title: CookieHub & Google Additional Consent Mode for TCF 2.2
+layout: google-ac
+title: Google's Additional Consent Mode
 permalink: /google-ac/
 description: Google Additional Consent Mode
 ---

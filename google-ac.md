@@ -10,4 +10,4 @@ IAB Europe Transparency & Consent Framework (TCF) has a simple objective to help
 
 # What is Google's Additional Consent Mode
 
-Google's Additional Consent Mode is intended only for use alongside IAB Europe’s Transparency & Consent Framework (TCF) v2.0 to serve as a bridge for vendors who are not yet registered on the IAB Europe Global Vendor List (GVL).
+Google's Additional Consent Mode is intended only for use alongside IAB Europe’s Transparency & Consent Framework (TCF) to serve as a bridge for vendors who are not yet registered on the IAB Europe Global Vendor List (GVL).

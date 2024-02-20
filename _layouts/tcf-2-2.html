@@ -11,16 +11,15 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
 
-<script src="https://tcf-cdn.cookiehub.eu/v3/stub.js"></script>
-<script type="text/javascript">
-var cpm = {};
-(function(h,u,b){
-var d=h.getElementsByTagName("script")[0],e=h.createElement("script");
-e.async=true;e.src='https://cdn.cookiehub.eu/c2/2d370ae9.js';
-e.onload=function(){u.cookiehub.load(b);};
-d.parentNode.insertBefore(e,d);
-})(document,window,cpm);
-</script>
+    <script src="https://cdn.cookiehub.eu/tcf/v3/stub.js"></script>
+    <script src="https://cdn.cookiehub.eu/c2/2d370ae9.js"></script>
+    <script type="text/javascript">
+    document.addEventListener("DOMContentLoaded", function(event) {
+    var cpm = {};
+    window.cookiehub.load(cpm);
+    });
+    </script>
+    
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-7G8JMYSPYT"></script>

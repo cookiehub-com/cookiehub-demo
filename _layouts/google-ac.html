@@ -11,14 +11,18 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
 
-    <script src="https://cookiehub.net/c2/tcf/stub.js"></script>
-    <script src="https://cookiehub.net/c2/3f13244f.js"></script>
+    <script src="https://cdn.cookiehub.eu/tcf/v3/stub.js"></script>
+    <script src="https://cdn.cookiehub.eu/c2/3f13244f.js"></script>
     <script type="text/javascript">
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('consent', 'default', {'ad_storage': 'denied', 'ad_user_data': 'denied', 'ad_personalization': 'denied', 'analytics_storage': 'denied', 'wait_for_update': 500});
     document.addEventListener("DOMContentLoaded", function(event) {
     var cpm = {};
     window.cookiehub.load(cpm);
     });
     </script>
+    
     
     
 <!-- Google tag (gtag.js) -->

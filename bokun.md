@@ -1,7 +1,7 @@
 ---
 layout: gtm
 title: CookieHub
-permalink: /gtm/
+permalink: /bokun/
 description: Bókun cross domain test
 ---
 

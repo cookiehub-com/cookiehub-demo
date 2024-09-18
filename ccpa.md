@@ -1,7 +1,7 @@
 ---
 layout: ccpa
-title: CookieHub & CCPA
+title: CookieHub & GPP
 permalink: /ccpa/
-description: IAB CCPA Compliance Framework
+description: IAB GPP Compliance Framework
 ---
 
